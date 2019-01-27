@@ -1,0 +1,45 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bokma et~al.(2007)Bokma, de~Winter, and Bouquet]{Bokma2007}
+J.~A. Bokma, J.~P. de~Winter, and M.~Bouquet.
+\newblock Het elektronisch pati{\"e}ntendossier: praktijkervaringen en
+  veiligheidsaspecten.
+\newblock \emph{Tijdschrift voor kindergeneeskunde}, 75\penalty0 (2):\penalty0
+  50--53, Apr 2007.
+\newblock ISSN 1875-6840.
+\newblock \doi{10.1007/BF03061660}.
+\newblock URL \url{https://doi.org/10.1007/BF03061660}.
+
+\bibitem[Groothuis et~al.(2007)]{groothuis2007het}
+MM~Groothuis et~al.
+\newblock Het elektronisch pati{\"e}ntendossier in een veellagige rechtsorde.
+\newblock 2007.
+
+\bibitem[Hamakers(2007)]{hamakers2007het}
+Alex Hamakers.
+\newblock Het waarborgen van de confidentialiteit van elektronische
+  pati{\"e}ntendossiers.
+\newblock \emph{Diss. Master’s thesis, Radboud University Nijmegen}, pages
+  1--90, 2007.
+
+\bibitem[Hooghiemstra(2001)]{Hooghiemstra2001}
+T.~F.~M. Hooghiemstra.
+\newblock Pati{\"e}nten en internet.
+\newblock \emph{Tijdschrift voor Gezondheidsrecht}, 25\penalty0 (7):\penalty0
+  162, Jul 2001.
+\newblock ISSN 1875-6794.
+\newblock \doi{10.1007/BF03055882}.
+\newblock URL \url{https://doi.org/10.1007/BF03055882}.
+
+\bibitem[Mies(2010)]{mies2010invoeren}
+Rob Mies.
+\newblock Invoeren van een elektronisch pati{\"e}ntendossier: Struikelblokken
+  en aandachtspunten bij het invoeren van een epd.
+\newblock Master's thesis, Open Universiteit Nederland, 2010.
+
+\end{thebibliography}

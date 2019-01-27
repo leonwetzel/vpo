@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: vpo.aux
+The style file: plainnat.bst
+Database file #1: refs.bib
+Warning--empty journal in groothuis2007het
+You've used 5 entries,
+            2773 wiz_defined-function locations,
+            631 strings with 5713 characters,
+and the built_in function-call counts, 1988 in all, are:
+= -- 190
+> -- 80
+< -- 5
++ -- 29
+- -- 24
+* -- 143
+:= -- 324
+add.period$ -- 21
+call.type$ -- 5
+change.case$ -- 22
+chr.to.int$ -- 5
+cite$ -- 11
+duplicate$ -- 100
+empty$ -- 168
+format.name$ -- 30
+if$ -- 411
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 4
+newline$ -- 39
+num.names$ -- 20
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 73
+stack$ -- 0
+substring$ -- 57
+swap$ -- 10
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 55
+warning$ -- 1
+while$ -- 21
+width$ -- 0
+write$ -- 82
+(There was 1 warning)
